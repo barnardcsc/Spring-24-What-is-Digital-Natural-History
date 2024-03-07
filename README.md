@@ -28,13 +28,13 @@ dig-nat-hist-notebook.html:   HTML version of the workshop
   13. Chicago herbarium:   https://www.fieldmuseum.org/vplants-a-virtual-herbarium-of-the-chicago-region
   14. Berlin negatives:   https://www.fieldmuseum.org/collection/berlin-negatives
   15. Digitizing Brazilian plant specimens:   https://www.kew.org/science/our-science/projects/reflora
-  **16.** *** **I-DigBio:   https://www.idigbio.org/portal/search** ***
+  16. *** **I-DigBio:   https://www.idigbio.org/portal/search** ***
   17. White, patriarchy article:   https://doi.org/10.1002/ppp3.10478
   18. Biopiracy:   https://www.cbd.int/abs
   19. Indigenous data sovereignty:   https://www.stateofopendata.od4d.net/chapters/issues/indigenous-data.html
 
 ### Section 2:
-  **20.** *** **I-Naturalist:   https://www.inaturalist.org/observations** ***
+  20. *** **I-Naturalist:   https://www.inaturalist.org/observations** ***
   21. Global Biodiveristy Information Facility:   https://www.gbif.org/
   22. Plants of the World Online:   https://powo.science.kew.org/ 
   23. Global Names Resolver:   https://resolver.globalnames.org/about
