@@ -12,7 +12,7 @@ dig-nat-hist-notebook.html:   HTML version of the workshop
 
 **For quick access to the links used throughout this workshop, please see below:**
 
-###Section 1:
+### Section 1:
   1. Biodiveristy Heritage Library (BHL):   https://www.biodiversitylibrary.org
   2. Botanical Garden, Padua:   https://whc.unesco.org/en/list/824/
   3. Luca Ghini:   https://herbariumworld.wordpress.com/2018/03/05/at-the-beginning-luca-ghini/
@@ -33,13 +33,13 @@ dig-nat-hist-notebook.html:   HTML version of the workshop
   18. Biopiracy:   https://www.cbd.int/abs
   19. Indigenous data sovereignty:   https://www.stateofopendata.od4d.net/chapters/issues/indigenous-data.html
 
-###Section 2:
+### Section 2:
   20. **I-Naturalist:   https://www.inaturalist.org/observations**
   21. Global Biodiveristy Information Facility:   https://www.gbif.org/
   22. Plants of the World Online:   https://powo.science.kew.org/ 
   23. Global Names Resolver:   https://resolver.globalnames.org/about
 
-###Section 3:
+### Section 3:
   24. Tree of life project:   https://treeoflife.kew.org/
 Evolutionary visualizer:   https://www.onezoom.org/
 VPhylomaker2:   https://github.com/jinyizju/V.PhyloMaker2
