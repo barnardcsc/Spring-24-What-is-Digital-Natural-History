@@ -15,31 +15,31 @@ dig-nat-hist-notebook.html:   HTML version of the workshop
 ###Section 1:
   1. Biodiveristy Heritage Library (BHL):   https://www.biodiversitylibrary.org
   2. Botanical Garden, Padua:   https://whc.unesco.org/en/list/824/
-Luca Ghini:   https://herbariumworld.wordpress.com/2018/03/05/at-the-beginning-luca-ghini/
-Johannes Thal's European plant catalogue:   https://www.biodiversitylibrary.org/item/223341#page/7/mode/1up
-Vienna, Schönbrunn Zoo:   https://www.zoovienna.at/en/zoo-and-visitors/welcome-worlds-oldest-zoo/
-Maria Sibylla:   https://nmwa.org/art/artists/maria-sibylla-merian/
-Carl Linnaeus:   https://www.linnean.org/learning https://www.linnean.org/learning/who-was-linnaeus/linnaeus-and-race-easy-read
-Jane Colden:   https://www.osgf.org/pioneers-of-natural-history-blogs-posts/2022/11/28/historical-context-for-the-botanic-manuscript-of-jane-colden-1724-1760-americas-first-woman-botanist
-Mary Seacole:   https://www.maryseacoletrust.org.uk/learn-about-mary/
-David Hosack:   https://wwnorton.com/books/9781631496011
-Elizabeth Knight Britton:   https://www.nybg.org/blogs/science-talk/2013/11/elizabeth-britton-real-life-inspiration-for-a-fictional-heroine/
-NY herbariums:   https://sweetgum.nybg.org/science/vh/
-Chicago herbarium:   https://www.fieldmuseum.org/vplants-a-virtual-herbarium-of-the-chicago-region
-Berlin negatives:   https://www.fieldmuseum.org/collection/berlin-negatives
-Digitizing Brazilian plant specimens:   https://www.kew.org/science/our-science/projects/reflora
-**I-DigBio:   https://www.idigbio.org/portal/search**
-White, patriarchy article:   https://doi.org/10.1002/ppp3.10478
-Biopiracy:   https://www.cbd.int/abs
-Indigenous data sovereignty:   https://www.stateofopendata.od4d.net/chapters/issues/indigenous-data.html
+  3. Luca Ghini:   https://herbariumworld.wordpress.com/2018/03/05/at-the-beginning-luca-ghini/
+  4. Johannes Thal's European plant catalogue:   https://www.biodiversitylibrary.org/item/223341#page/7/mode/1up
+  5. Vienna, Schönbrunn Zoo:   https://www.zoovienna.at/en/zoo-and-visitors/welcome-worlds-oldest-zoo/
+  6. Maria Sibylla:   https://nmwa.org/art/artists/maria-sibylla-merian/
+  7. Carl Linnaeus:   https://www.linnean.org/learning https://www.linnean.org/learning/who-was-linnaeus/linnaeus-and-race-easy-read
+  8. Jane Colden:   https://www.osgf.org/pioneers-of-natural-history-blogs-posts/2022/11/28/historical-context-for-the-botanic-manuscript-of-jane-colden-1724-1760-americas-first-woman-botanist
+  9. Mary Seacole:   https://www.maryseacoletrust.org.uk/learn-about-mary/
+  10. David Hosack:   https://wwnorton.com/books/9781631496011
+  11. Elizabeth Knight Britton:   https://www.nybg.org/blogs/science-talk/2013/11/elizabeth-britton-real-life-inspiration-for-a-fictional-heroine/
+  12. NY herbariums:   https://sweetgum.nybg.org/science/vh/
+  13. Chicago herbarium:   https://www.fieldmuseum.org/vplants-a-virtual-herbarium-of-the-chicago-region
+  14. Berlin negatives:   https://www.fieldmuseum.org/collection/berlin-negatives
+  15. Digitizing Brazilian plant specimens:   https://www.kew.org/science/our-science/projects/reflora
+  16. **I-DigBio:   https://www.idigbio.org/portal/search**
+  17. White, patriarchy article:   https://doi.org/10.1002/ppp3.10478
+  18. Biopiracy:   https://www.cbd.int/abs
+  19. Indigenous data sovereignty:   https://www.stateofopendata.od4d.net/chapters/issues/indigenous-data.html
 
 ###Section 2:
-**I-Naturalist:   https://www.inaturalist.org/observations**
-Global Biodiveristy Information Facility:   https://www.gbif.org/
-Plants of the World Online:   https://powo.science.kew.org/ 
-Global Names Resolver:   https://resolver.globalnames.org/about
+  20. **I-Naturalist:   https://www.inaturalist.org/observations**
+  21. Global Biodiveristy Information Facility:   https://www.gbif.org/
+  22. Plants of the World Online:   https://powo.science.kew.org/ 
+  23. Global Names Resolver:   https://resolver.globalnames.org/about
 
 ###Section 3:
-Tree of life project:   https://treeoflife.kew.org/
+  24. Tree of life project:   https://treeoflife.kew.org/
 Evolutionary visualizer:   https://www.onezoom.org/
 VPhylomaker2:   https://github.com/jinyizju/V.PhyloMaker2
