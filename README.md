@@ -42,5 +42,5 @@ This workshop demonstrates one highly accessible app (such as I-Naturalist) and 
 
 #### Section 3:
   24. Tree of life project:   https://treeoflife.kew.org/
-Evolutionary visualizer:   https://www.onezoom.org/
-VPhylomaker2:   https://github.com/jinyizju/V.PhyloMaker2
+  25. Evolutionary visualizer:   https://www.onezoom.org/
+  26. VPhylomaker2:   https://github.com/jinyizju/V.PhyloMaker2
