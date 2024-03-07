@@ -7,8 +7,8 @@ This workshop demonstrates one highly accessible app (such as I-Naturalist) and 
 
 **This repository contains the following materials:**
 
-dig-nat-hist-notebook-r.rmd:   R version of the workshop
-dig-nat-hist-notebook.html:   HTML version of the workshop
+  1. dig-nat-hist-notebook-r.rmd:   R version of the workshop
+  2. dig-nat-hist-notebook.html:   HTML version of the workshop
 
 **For quick access to the links used throughout this workshop, please see below:**
 
